@@ -5,16 +5,22 @@ I've also built simple desktop apps using **JavaFX**, and I occasionally work wi
 ---
 
 ## Tech Stack
-- **Languages:** Java, Python, a bit of C++
-- **Backend:** Spring Boot, JDBC, MySQL
-- **Frontend:** React, JavaFX (basic)
-- **Tools:** Gradle, IntelliJ IDEA
+- **Languages:**  **Java**, **Python**, a bit of **C++** **|** 
+<img src="./images/java.png" width="20" style="vertical-align:middle; margin-right:6px;">, 
+<img src="./images/python.png" width="20" style="vertical-align:middle; margin-right:6px;">, <img src="./images/cpp.png" width="20" style="vertical-align:middle; margin-right:6px;">
+
+- **Backend:** **Spring Boot**, **JDBC**, **MySQL** **|** 
+<img src="./images/springboot.png" width="20" style="vertical-align:middle; margin-right:6px;">, <img src="./images/mysql.png" width="20" style="vertical-align:middle; margin-right:6px;">
+
+- **Frontend:** **React**, **JavaFX** (basic) **|** <img src="./images/react.png" width="20" style="vertical-align:middle; margin-right:6px;">
+
+- **Tools:** **Gradle**, **IntelliJ IDEA** **|** <img src="./images/gradle.png" width="20" style="vertical-align:middle; margin-right:6px;">, <img src="./images/intellij.png" width="20" style="vertical-align:middle; margin-right:6px;">
 
 ---
 
 ##  Projects
+- **[Spendly](https://github.com/xhibril/Spendly)** — A budgeting app I’m building with React + Spring Boot + MySQL (still in progress).
 - **[Bookify](https://github.com/xhibril/Bookify)** — A Simple JavaFX + MySQL app for booking and managing slots with login/signup.
-- **[Spendly](#)** — A budgeting app I’m building with Spring Boot + React + MySQL (still in progress).
 - **[MiniProjects](https://github.com/xhibril/miniProjects)** — Small Java projects to practice core logic, DB handling, and clean structure.
 
 ---
@@ -27,5 +33,3 @@ I've also built simple desktop apps using **JavaFX**, and I occasionally work wi
 
 ##  Contact
 📧 **xhibril.dev@gmail.com**  
-
-![Header](./images/java.png)
