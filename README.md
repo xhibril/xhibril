@@ -26,7 +26,7 @@ I've also built simple desktop apps using **JavaFX**, and I occasionally work wi
 ---
 
 ## What I'm Doing Now
-- Building complete backend systems with **Spring Boot + MySQL**
+- Building backend applications with **Spring Boot + MySQL**
 - Expanding toward full-stack development
 
 ---
