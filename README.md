@@ -14,7 +14,7 @@ I've also built simple desktop apps using **JavaFX**, and I occasionally work wi
 
 - **Frontend:** **React**, **JavaFX** (basic) **|** <img src="./images/react.png" width="20" style="vertical-align:middle; margin-right:6px;">
 
-- **Tools:** **Gradle**, **IntelliJ IDEA** **|** <img src="./images/gradle.png" width="20" style="vertical-align:middle; margin-right:6px;">, <img src="./images/intellij.png" width="20" style="vertical-align:middle; margin-right:6px;">
+- **Tools:** **Maven**, **IntelliJ IDEA** **|** <img src="./images/intellij.png" width="20" style="vertical-align:middle; margin-right:6px;">
 
 ---
 
