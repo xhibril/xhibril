@@ -13,9 +13,6 @@ I've also built simple desktop apps using **JavaFX**, and I occasionally work wi
 <img src="./images/springboot.png" width="20" style="vertical-align:middle; margin-right:6px;">, <img src="./images/mysql.png" width="20" style="vertical-align:middle; margin-right:6px;">
 
 - **Frontend:** **React**, **JavaFX** (basic) **|** <img src="./images/react.png" width="20" style="vertical-align:middle; margin-right:6px;">
-
-- **Tools:** **Maven**, **IntelliJ IDEA** **|** <img src="./images/intellij.png" width="20" style="vertical-align:middle; margin-right:6px;">
-
 ---
 
 ##  Projects
