@@ -16,7 +16,7 @@ I've also built simple desktop apps using **JavaFX**, and I occasionally work wi
 ---
 
 ##  Projects
-- **[Spendly](https://github.com/xhibril/Spendly)** — A budgeting app I’m building with React + Spring Boot + MySQL (still in progress).
+- **[Spendly](https://github.com/xhibril/Spendly)** — A budgeting app I’m building with HTML/CSS/JS + Spring Boot + MySQL (still in progress).
 - **[Bookify](https://github.com/xhibril/Bookify)** — A Simple JavaFX + MySQL app for booking and managing slots with login/signup.
 - **[MiniProjects](https://github.com/xhibril/miniProjects)** — Small Java projects to practice core logic, DB handling, and clean structure.
 
