@@ -16,16 +16,6 @@ Undergraduate developer focused on backend engineering with Java, Spring Boot, a
 - **Desktop UI:** JavaFX
 
 ---
-
-## Projects
-
-### SipSync
-Web application built with HTML, CSS, JavaScript, Spring Boot, and MySQL.
-
-**Live**: https://sipsync.com  
-**Code**: https://github.com/xhibril/SipSync
-
----
 ## Contact
 
 📧 **xhibril.dev@gmail.com**
