@@ -1,4 +1,4 @@
-Undergraduate developer focused on backend engineering with Java, Spring Boot, and MySQL, building scalable and maintainable applications.
+Undergraduate developer focused on backend engineering with Java, Spring Boot, and MySQL.
 
 ---
 
