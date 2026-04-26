@@ -1,4 +1,4 @@
-Undergraduate developer building backend systems with Java, Spring Boot, and MySQL.
+Undergraduate developer focused on building full-stack applications using Spring Boot, React, and MySQL.
 
 ---
 
