@@ -19,4 +19,4 @@ Undergraduate developer building backend systems with Java, Spring Boot, and MyS
 ---
 ## Contact
 
-📧 **xhibril.dev@gmail.com**
+📧 **contact@xhibril.dev**
