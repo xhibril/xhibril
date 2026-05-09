@@ -1,5 +1,4 @@
-Undergraduate developer focused on building full-stack applications using Spring Boot, React, and MySQL.
-
+Full-stack developer building web applications with Java, Spring Boot, React, and MySQL.
 ---
 
 ## Tech Stack
