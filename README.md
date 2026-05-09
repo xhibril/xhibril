@@ -1,4 +1,5 @@
-Full-stack developer building web applications with Java, Spring Boot, React, and MySQL.
+Full-stack developer focused on building applications with Java, Spring Boot, React, and MySQL.
+
 ---
 
 ## Tech Stack
